@@ -1,6 +1,6 @@
 # Custom commands example
 
-[![Build status](https://ci.appveyor.com/api/projects/status/k9x55sgxjyjsay0a?svg=true)](https://ci.appveyor.com/project/madskristensen/visibilityconstraintssample)
+[![Build status](https://ci.appveyor.com/api/projects/status/89s5yj3ya9e1jitg?svg=true)](https://ci.appveyor.com/project/madskristensen/customcommandsample)
 
 **Applies to Visual Studio 2015 and newer**
 

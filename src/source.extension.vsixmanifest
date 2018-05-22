@@ -4,6 +4,7 @@
         <Identity Id="CustomCommandSample.b533325b-3cbb-40bc-a4e8-9f4221c0b01c" Version="1.0" Language="en-US" Publisher="Mads Kristensen" />
         <DisplayName>Custom Command Sample</DisplayName>
         <Description xml:space="preserve">Shows how to hook up a command in VS</Description>
+        <MoreInfo>https://github.com/madskristensen/CustomCommandSample</MoreInfo>
         <License>Resources\LICENSE</License>
         <Icon>Resources\Icon128x128.png</Icon>
         <PreviewImage>Resources\Icon128x128.png</PreviewImage>
