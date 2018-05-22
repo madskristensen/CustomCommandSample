@@ -11,6 +11,8 @@ Clone the repo to test out the sample in Visual Studio 2017 yourself.
 ## What is a command?
 A command is code that Visual Studio will execute when it is being invoked. Most common, commands are buttons in menus or toolbars and can have keyboard shortcuts mapped to them.
 
+![Command](art/command.png)
+
 It's easy to create commands in a Visual Studio extension.
 
 ## Let's get started
