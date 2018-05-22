@@ -91,6 +91,7 @@ public sealed class MyPackage : AsyncPackage
 ## Further reading
 Read the docs for all the details surrounding these scenarios.
 
+* [VSCT Schema Reference](https://docs.microsoft.com/en-us/visualstudio/extensibility/vsct-xml-schema-reference)
 * [Use AsyncPackage with background load](https://docs.microsoft.com/en-us/visualstudio/extensibility/how-to-use-asyncpackage-to-load-vspackages-in-the-background)
 * [Use Rule-based UI Context](https://docs.microsoft.com/en-us/visualstudio/extensibility/how-to-use-rule-based-ui-context-for-visual-studio-extensions)
 * [VisibilityConstraints sample](https://github.com/madskristensen/VisibilityConstraintsSample)
